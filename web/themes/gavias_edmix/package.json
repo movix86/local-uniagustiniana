@@ -9,7 +9,7 @@
   "author": "William Bautista",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-jsdoc3": "^2.0.0",
     "sassdoc": "^2.5.1"
   }
